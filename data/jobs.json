@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-23T06:10:24+08:00",
+    "updated_at": "2026-10-24T06:09:02+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4481192930",
+      "title": "Snr Data Analyst/Data Scientist (Healthcare Analytics)",
+      "company": "MOH Office for Healthcare Transformation (MOHT)",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4481192930/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-10-24T06:09:02+08:00",
+      "last_seen": "2026-10-24T06:09:02+08:00"
+    },
+    {
+      "id": "li-4472613649",
+      "title": "Data Scientist II",
+      "company": "Mastercard",
+      "location": "Gurugram",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4472613649/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-10-24T06:09:02+08:00",
+      "last_seen": "2026-10-24T06:09:02+08:00"
+    },
     {
       "id": "li-4481558384",
       "title": "Decision Support Data Scientist",
@@ -26,7 +56,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-23T06:10:24+08:00",
-      "last_seen": "2026-10-23T06:10:24+08:00"
+      "last_seen": "2026-10-24T06:09:02+08:00"
     },
     {
       "id": "li-4473041220",
@@ -41,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-22T06:08:48+08:00",
-      "last_seen": "2026-10-22T06:08:48+08:00"
+      "last_seen": "2026-10-24T06:09:02+08:00"
     },
     {
       "id": "li-4436315688",
