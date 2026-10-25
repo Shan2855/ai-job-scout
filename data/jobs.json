@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-25T06:09:00+08:00",
+    "updated_at": "2026-10-26T06:08:07+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4483158564",
+      "title": "AI or ML Engineer",
+      "company": "Optum India",
+      "location": "Gurgaon",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483158564/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"ML\"",
+      "first_seen": "2026-10-26T06:08:07+08:00",
+      "last_seen": "2026-10-26T06:08:07+08:00"
+    },
+    {
+      "id": "li-4482843838",
+      "title": "VP, AI and Data Analyst",
+      "company": "OCBC",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482843838/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-26T06:08:07+08:00",
+      "last_seen": "2026-10-26T06:08:07+08:00"
+    },
     {
       "id": "li-4456369084",
       "title": "Consulting, Digital Village (DV-AI) | Graduate Associate 2027",
@@ -26,7 +56,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-25T06:09:00+08:00",
-      "last_seen": "2026-10-25T06:09:00+08:00"
+      "last_seen": "2026-10-26T06:08:07+08:00"
     },
     {
       "id": "li-4481611010",
@@ -41,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-25T06:09:00+08:00",
-      "last_seen": "2026-10-25T06:09:00+08:00"
+      "last_seen": "2026-10-26T06:08:07+08:00"
     },
     {
       "id": "li-4481192930",
@@ -56,7 +86,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-24T06:09:02+08:00",
-      "last_seen": "2026-10-25T06:09:00+08:00"
+      "last_seen": "2026-10-26T06:08:07+08:00"
     },
     {
       "id": "li-4472613649",
@@ -71,7 +101,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-24T06:09:02+08:00",
-      "last_seen": "2026-10-25T06:09:00+08:00"
+      "last_seen": "2026-10-26T06:08:07+08:00"
     },
     {
       "id": "li-4481558384",
