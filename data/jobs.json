@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-27T06:09:40+08:00",
+    "updated_at": "2026-10-28T06:10:22+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4227929844",
+      "title": "Business Intelligence Analyst (AI) - Credit, Business Intelligence",
+      "company": "Monee",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4227929844/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-28T06:10:22+08:00",
+      "last_seen": "2026-10-28T06:10:22+08:00"
+    },
     {
       "id": "li-4457373692",
       "title": "Senior Software Engineer II - QuantumBlack, AI by McKinsey",
@@ -26,7 +41,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-27T06:09:40+08:00",
-      "last_seen": "2026-10-27T06:09:40+08:00"
+      "last_seen": "2026-10-28T06:10:22+08:00"
     },
     {
       "id": "li-4482655518",
@@ -41,7 +56,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-27T06:09:40+08:00",
-      "last_seen": "2026-10-27T06:09:40+08:00"
+      "last_seen": "2026-10-28T06:10:22+08:00"
     },
     {
       "id": "li-4483158564",
@@ -56,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-26T06:08:07+08:00",
-      "last_seen": "2026-10-26T06:08:07+08:00"
+      "last_seen": "2026-10-28T06:10:22+08:00"
     },
     {
       "id": "li-4482843838",
@@ -71,7 +86,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-26T06:08:07+08:00",
-      "last_seen": "2026-10-27T06:09:40+08:00"
+      "last_seen": "2026-10-28T06:10:22+08:00"
     },
     {
       "id": "li-4456369084",
