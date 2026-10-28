@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-28T06:10:22+08:00",
+    "updated_at": "2026-10-29T06:11:02+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4484004794",
+      "title": "AI & Data Analytics Specialist",
+      "company": "Samsung Southeast Asia & Oceania",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4484004794/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:11:02+08:00",
+      "last_seen": "2026-10-29T06:11:02+08:00"
+    },
+    {
+      "id": "li-4437555587",
+      "title": "Tax - Digital Tax (Data Scientist) Associate (July 2027 Intake)",
+      "company": "PwC Singapore",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4437555587/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-10-29T06:11:02+08:00",
+      "last_seen": "2026-10-29T06:11:02+08:00"
+    },
     {
       "id": "li-4227929844",
       "title": "Business Intelligence Analyst (AI) - Credit, Business Intelligence",
@@ -26,7 +56,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-28T06:10:22+08:00",
-      "last_seen": "2026-10-28T06:10:22+08:00"
+      "last_seen": "2026-10-29T06:11:02+08:00"
     },
     {
       "id": "li-4457373692",
@@ -41,7 +71,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-27T06:09:40+08:00",
-      "last_seen": "2026-10-28T06:10:22+08:00"
+      "last_seen": "2026-10-29T06:11:02+08:00"
     },
     {
       "id": "li-4482655518",
@@ -56,7 +86,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-27T06:09:40+08:00",
-      "last_seen": "2026-10-28T06:10:22+08:00"
+      "last_seen": "2026-10-29T06:11:02+08:00"
     },
     {
       "id": "li-4483158564",
