@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-30T06:08:19+08:00",
+    "updated_at": "2026-10-31T06:08:22+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4473108347",
+      "title": "Senior Data Analyst – Analytics Engineering & AI",
+      "company": "Thermo Fisher Scientific",
+      "location": "Bengaluru East",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4473108347/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-31T06:08:22+08:00",
+      "last_seen": "2026-10-31T06:08:22+08:00"
+    },
     {
       "id": "li-4484205806",
       "title": "Business Analyst - Tech & AI",
@@ -26,7 +41,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-10-30T06:08:19+08:00"
+      "last_seen": "2026-10-31T06:08:22+08:00"
     },
     {
       "id": "li-4484222400",
@@ -41,7 +56,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-10-30T06:08:19+08:00"
+      "last_seen": "2026-10-31T06:08:22+08:00"
     },
     {
       "id": "li-4484279684",
@@ -56,7 +71,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-10-30T06:08:19+08:00"
+      "last_seen": "2026-10-31T06:08:22+08:00"
     },
     {
       "id": "li-4483690400",
@@ -71,7 +86,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-10-30T06:08:19+08:00"
+      "last_seen": "2026-10-31T06:08:22+08:00"
     },
     {
       "id": "li-4484004794",
@@ -86,7 +101,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-29T06:11:02+08:00",
-      "last_seen": "2026-10-30T06:08:19+08:00"
+      "last_seen": "2026-10-31T06:08:22+08:00"
     },
     {
       "id": "li-4437555587",
@@ -101,7 +116,7 @@
       "level": "Entry",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-29T06:11:02+08:00",
-      "last_seen": "2026-10-30T06:08:19+08:00"
+      "last_seen": "2026-10-31T06:08:22+08:00"
     },
     {
       "id": "li-4227929844",
