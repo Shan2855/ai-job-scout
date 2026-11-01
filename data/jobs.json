@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-01T06:08:06+08:00",
+    "updated_at": "2026-11-02T06:08:36+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4392957267",
+      "title": "Junior Associate - Tech&AI",
+      "company": "McKinsey & Company",
+      "location": "Bangkok",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4392957267/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-02T06:08:36+08:00",
+      "last_seen": "2026-11-02T06:08:36+08:00"
+    },
     {
       "id": "li-4477678499",
       "title": "Advanced Analytics (AA&I) and Innovation, Associate, Technical Specialist",
