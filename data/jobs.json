@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-03T06:08:04+08:00",
+    "updated_at": "2026-11-04T06:09:08+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4382955444",
+      "title": "Associate Partner - Tech & AI",
+      "company": "McKinsey & Company",
+      "location": "Seoul",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4382955444/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-04T06:09:08+08:00",
+      "last_seen": "2026-11-04T06:09:08+08:00"
+    },
+    {
+      "id": "li-4485474605",
+      "title": "Specialist, AI and Data Science (Applied Business Analytics) - Hyderabad",
+      "company": "Deloitte",
+      "location": "Hyderabad",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4485474605/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-04T06:09:08+08:00",
+      "last_seen": "2026-11-04T06:09:08+08:00"
+    },
+    {
+      "id": "li-4448409451",
+      "title": "Senior Data Scientist",
+      "company": "Definitive Healthcare",
+      "location": "Bengaluru",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4448409451/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-04T06:09:08+08:00",
+      "last_seen": "2026-11-04T06:09:08+08:00"
+    },
+    {
+      "id": "li-4472995916",
+      "title": "Data Analyst – Analytics Engineering & AI",
+      "company": "Thermo Fisher Scientific",
+      "location": "Bengaluru East",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4472995916/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-04T06:09:08+08:00",
+      "last_seen": "2026-11-04T06:09:08+08:00"
+    },
     {
       "id": "li-4392957267",
       "title": "Junior Associate - Tech&AI",
@@ -26,7 +86,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-02T06:08:36+08:00",
-      "last_seen": "2026-11-02T06:08:36+08:00"
+      "last_seen": "2026-11-04T06:09:08+08:00"
     },
     {
       "id": "li-4477678499",
