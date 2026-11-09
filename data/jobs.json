@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-09T06:08:02+08:00",
+    "updated_at": "2026-11-10T06:08:50+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -41,7 +41,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-09T06:08:02+08:00",
-      "last_seen": "2026-11-09T06:08:02+08:00"
+      "last_seen": "2026-11-10T06:08:50+08:00"
     },
     {
       "id": "li-4443949647",
@@ -56,7 +56,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\" and \"AI\"",
       "first_seen": "2026-11-09T06:08:02+08:00",
-      "last_seen": "2026-11-09T06:08:02+08:00"
+      "last_seen": "2026-11-10T06:08:50+08:00"
     },
     {
       "id": "li-4330775726",
@@ -491,7 +491,7 @@
       "level": "Mid",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-10-21T15:13:13+08:00",
-      "last_seen": "2026-10-22T06:08:48+08:00"
+      "last_seen": "2026-11-10T06:08:50+08:00"
     }
   ]
 }
