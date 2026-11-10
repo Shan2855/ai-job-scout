@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-10T06:08:50+08:00",
+    "updated_at": "2026-11-11T06:15:27+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4454805699",
+      "title": "Tech Architect - Tech & AI",
+      "company": "McKinsey & Company",
+      "location": "Seoul",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4454805699/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-11T06:15:27+08:00",
+      "last_seen": "2026-11-11T06:15:27+08:00"
+    },
+    {
+      "id": "li-4444492034",
+      "title": "Client Development Advisor - Tech & AI",
+      "company": "McKinsey & Company",
+      "location": "Tokyo",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4444492034/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-11T06:15:27+08:00",
+      "last_seen": "2026-11-11T06:15:27+08:00"
+    },
     {
       "id": "li-4480524387",
       "title": "Consultant - Tech & AI",
@@ -26,7 +56,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-09T06:08:02+08:00",
-      "last_seen": "2026-11-09T06:08:02+08:00"
+      "last_seen": "2026-11-11T06:15:27+08:00"
     },
     {
       "id": "li-4443961018",
@@ -41,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-09T06:08:02+08:00",
-      "last_seen": "2026-11-10T06:08:50+08:00"
+      "last_seen": "2026-11-11T06:15:27+08:00"
     },
     {
       "id": "li-4443949647",
@@ -56,7 +86,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\" and \"AI\"",
       "first_seen": "2026-11-09T06:08:02+08:00",
-      "last_seen": "2026-11-10T06:08:50+08:00"
+      "last_seen": "2026-11-11T06:15:27+08:00"
     },
     {
       "id": "li-4330775726",
@@ -491,7 +521,7 @@
       "level": "Mid",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-10-21T15:13:13+08:00",
-      "last_seen": "2026-11-10T06:08:50+08:00"
+      "last_seen": "2026-11-11T06:15:27+08:00"
     }
   ]
 }
