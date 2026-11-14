@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-14T06:08:58+08:00",
+    "updated_at": "2026-11-15T06:08:33+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4490579774",
+      "title": "Senior Assistant Manager, Innovation & Improvement Office",
+      "company": "Khoo Teck Puat Hospital",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4490579774/",
+      "posted": null,
+      "salary": null,
+      "track": "Innovation",
+      "level": "Senior",
+      "why": "title has \"Innovation\"",
+      "first_seen": "2026-11-15T06:08:33+08:00",
+      "last_seen": "2026-11-15T06:08:33+08:00"
+    },
+    {
+      "id": "li-4489556761",
+      "title": "Data Scientist (Analytics), Financial Services",
+      "company": "Grab",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4489556761/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-15T06:08:33+08:00",
+      "last_seen": "2026-11-15T06:08:33+08:00"
+    },
     {
       "id": "li-4454805699",
       "title": "Tech Architect - Tech & AI",
