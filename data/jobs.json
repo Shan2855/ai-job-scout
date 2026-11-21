@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-21T06:08:50+08:00",
+    "updated_at": "2026-11-22T06:08:42+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4481365936",
+      "title": "Business Analytics with Gen AI",
+      "company": "Citi",
+      "location": "Bengaluru",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481365936/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-22T06:08:42+08:00",
+      "last_seen": "2026-11-22T06:08:42+08:00"
+    },
+    {
+      "id": "li-4492576722",
+      "title": "Data Scientist (Analytics), Financial Services - Payments",
+      "company": "Grab",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492576722/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-22T06:08:42+08:00",
+      "last_seen": "2026-11-22T06:08:42+08:00"
+    },
+    {
+      "id": "li-4492589201",
+      "title": "Data Scientist (Analytics), Financial Services - Lending",
+      "company": "Grab",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492589201/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-22T06:08:42+08:00",
+      "last_seen": "2026-11-22T06:08:42+08:00"
+    },
     {
       "id": "li-4490327464",
       "title": "Research Assistant (AI/Medicine/Data Analytics)",
@@ -26,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-21T06:08:50+08:00",
-      "last_seen": "2026-11-21T06:08:50+08:00"
+      "last_seen": "2026-11-22T06:08:42+08:00"
     },
     {
       "id": "li-4482591167",
@@ -41,7 +86,7 @@
       "level": "Entry",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-21T06:08:50+08:00",
-      "last_seen": "2026-11-21T06:08:50+08:00"
+      "last_seen": "2026-11-22T06:08:42+08:00"
     },
     {
       "id": "li-4491137756",
@@ -356,7 +401,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-04T06:09:08+08:00",
-      "last_seen": "2026-11-21T06:08:50+08:00"
+      "last_seen": "2026-11-22T06:08:42+08:00"
     },
     {
       "id": "li-4392957267",
@@ -416,7 +461,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-11-21T06:08:50+08:00"
+      "last_seen": "2026-11-22T06:08:42+08:00"
     },
     {
       "id": "li-4484222400",
@@ -431,7 +476,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-11-21T06:08:50+08:00"
+      "last_seen": "2026-11-22T06:08:42+08:00"
     },
     {
       "id": "li-4484279684",
@@ -446,7 +491,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-30T06:08:19+08:00",
-      "last_seen": "2026-11-21T06:08:50+08:00"
+      "last_seen": "2026-11-22T06:08:42+08:00"
     },
     {
       "id": "li-4483690400",
