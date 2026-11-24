@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-24T06:08:28+08:00",
+    "updated_at": "2026-11-25T06:08:49+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4419696734",
+      "title": "Associate (12 months contract), Organisation & People (AI & Data Analytics)",
+      "company": "Temasek",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4419696734/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-25T06:08:49+08:00",
+      "last_seen": "2026-11-25T06:08:49+08:00"
+    },
     {
       "id": "li-4481365936",
       "title": "Business Analytics with Gen AI",
@@ -416,7 +431,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-02T06:08:36+08:00",
-      "last_seen": "2026-11-24T06:08:28+08:00"
+      "last_seen": "2026-11-25T06:08:49+08:00"
     },
     {
       "id": "li-4477678499",
@@ -431,7 +446,7 @@
       "level": "Entry",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-11-01T06:08:06+08:00",
-      "last_seen": "2026-11-24T06:08:28+08:00"
+      "last_seen": "2026-11-25T06:08:49+08:00"
     },
     {
       "id": "li-4473108347",
