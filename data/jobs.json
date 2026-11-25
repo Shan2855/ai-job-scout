@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-25T06:08:49+08:00",
+    "updated_at": "2026-11-26T06:08:22+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "li-4494121624",
+      "title": "Lead Product Manager, AI & Data - Asia Pacific (APACx)",
+      "company": "Hilton",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4494121624/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:08:22+08:00",
+      "last_seen": "2026-11-26T06:08:22+08:00"
+    },
+    {
+      "id": "li-4494320594",
+      "title": "DATA SCIENTIST",
+      "company": "Xiaomi Technology",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4494320594/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"DATA SCIENTIST\"",
+      "first_seen": "2026-11-26T06:08:22+08:00",
+      "last_seen": "2026-11-26T06:08:22+08:00"
+    },
     {
       "id": "li-4419696734",
       "title": "Associate (12 months contract), Organisation & People (AI & Data Analytics)",
@@ -26,7 +56,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:08:49+08:00",
-      "last_seen": "2026-11-25T06:08:49+08:00"
+      "last_seen": "2026-11-26T06:08:22+08:00"
     },
     {
       "id": "li-4481365936",
@@ -371,7 +401,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-04T06:09:08+08:00",
-      "last_seen": "2026-11-06T06:08:03+08:00"
+      "last_seen": "2026-11-26T06:08:22+08:00"
     },
     {
       "id": "li-4485474605",
@@ -386,7 +416,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-04T06:09:08+08:00",
-      "last_seen": "2026-11-06T06:08:03+08:00"
+      "last_seen": "2026-11-26T06:08:22+08:00"
     },
     {
       "id": "li-4448409451",
@@ -431,7 +461,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-02T06:08:36+08:00",
-      "last_seen": "2026-11-25T06:08:49+08:00"
+      "last_seen": "2026-11-26T06:08:22+08:00"
     },
     {
       "id": "li-4477678499",
